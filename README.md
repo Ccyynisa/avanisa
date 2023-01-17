@@ -15,8 +15,8 @@ pkg i git -y
 pkg i nodejs -y
 pkg i ffmpeg -y
 pkg i yarn
-git clone https://github.com/xiecaa/Wansap-Bot
-cd Wansap-Bot
+git clone https://github.com/Ccyynisa/avanisa
+cd Avanisa
 yarn
 npm start
 ```
