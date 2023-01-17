@@ -16,7 +16,7 @@ pkg i nodejs -y
 pkg i ffmpeg -y
 pkg i yarn
 git clone https://github.com/Ccyynisa/avanisa
-cd Avanisa
+cd avanisa
 yarn
 npm start
 ```
@@ -28,8 +28,8 @@ Instal NodeJS : [`Klik Disini`](https://nodejs.org/en/download)
 Instal FFmpeg : [`Klik Disini`](https://ffmpeg.org/download.html)
 
 ```bash
-git clone https://github.com/xiecaa/Wansap-Bot
-cd Wansap-Bot
+git clone https://github.com/Ccyynisa/avanisa
+cd avanisa
 yarn
 npm start
 ```
