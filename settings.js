@@ -4,7 +4,7 @@ const chalk = require('chalk')
 
 global.thumb = fs.readFileSync('./media/imgnya.jpg')
 global.thumb2 = fs.readFileSync('./media/imgnya2.jpg')
-global.linkgc = 'https://chat.whatsapp.com/Gr6Wy6OoRTP00YmV0x6pHr'
+global.linkgc = 'https://chat.whatsapp.com/D1PZJZUrtFSBwJG21i2uCG'
 global.userB = []
 global.ownerNumber =['6283169900452']
 global.ownerName = '© avanisa'
