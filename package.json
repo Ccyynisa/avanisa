@@ -1,7 +1,7 @@
 {
-  "name": "RoF3X-MD",
+  "name": "Avaanisa",
   "version": "1.0.0",
-  "description": "Made With By Fxsx",
+  "description": "Made With By vaxye",
   "main": "connect/index.js",
   "type": "commonjs",
   "scripts": {
@@ -20,7 +20,7 @@
     "botmd",
     "bot-md"
   ],
-  "author": "FxSx",
+  "author": "vaanisa",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
